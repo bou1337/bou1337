@@ -14,7 +14,8 @@ I'm a student at **1337** passionate about coding, problem-solving, and building
 - [📘 Introduction to Back-End Development (Coursera)](./introduction-to-backend.pdf)  
 - [🧩 Version Control (Coursera)](./version-control.pdf)  
 - [🐍 Programming in Python (Coursera)](./programming-in-python.pdf)  
-- [🗄️ Introduction to Databases for Back-End Development (Coursera)](./introduction-to-databases.pdf)  
+- [🗄️ Introduction to Databases for Back-End Development (Coursera)](./introduction-to-databases.pdf)
+- [💻 CodinGame C++ Certification](./codingame-cpp.pdf)
 
 ## 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bou1337&show_icons=true&theme=tokyonight)  
