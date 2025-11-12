@@ -16,7 +16,7 @@ I'm a student at **1337** passionate about coding, problem-solving, and building
 - [🐍 Programming in Python (Coursera)](./programming-in-python.pdf)  
 - [🗄️ Introduction to Databases for Back-End Development (Coursera)](./introduction-to-databases.pdf)
 - [💻 CodinGame C++ Certification](./codingame-cpp.pdf)
-- [🧠 Problem Solving (Basic) – HackerRank](./problem_solving_basic.pdf)
+- - [🧠 Problem Solving (Basic) – HackerRank](./problem_solving_basic_certificate.pdf)
 
 ## 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bou1337&show_icons=true&theme=tokyonight)  
