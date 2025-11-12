@@ -9,6 +9,13 @@ I'm a student at **1337** passionate about coding, problem-solving, and building
 - 🌱 Currently learning **system architecture & advanced algorithms**  
 - 🤝 Open to collaborating on **open-source projects and coding challenges**  
 
+## 🏅 Certifications  
+
+- [📘 Introduction to Back-End Development (Coursera)](./certificates/introduction-to-backend.pdf)  
+- [🧩 Version Control (Coursera)](./certificates/version-control.pdf)  
+- [🐍 Programming in Python (Coursera)](./certificates/programming-in-python.pdf)  
+- [🗄️ Introduction to Databases for Back-End Development (Coursera)](./certificates/introduction-to-databases.pdf)  
+
 ## 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bou1337&show_icons=true&theme=tokyonight)  
 
@@ -17,4 +24,4 @@ I'm a student at **1337** passionate about coding, problem-solving, and building
 
 ---
 
-⭐️ **Feel free to check out my projects and connect!**  
+⭐️ **Feel free to check out my projects and connect!**
