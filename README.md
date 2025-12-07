@@ -19,7 +19,7 @@ I'm a student at **1337** passionate about coding, problem-solving, and building
 - [🧠 Problem Solving (Basic) – HackerRank](./problem_solving_basic_certificate.pdf)
 
 ## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bou1337&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=bou1337&show_icons=true&theme=tokyonight)
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ait-bougnsa-ismail-567810147)  
